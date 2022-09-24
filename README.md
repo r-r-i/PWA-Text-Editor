@@ -37,12 +37,9 @@ Run the following command:
 Unlicensed
 ```
 
-## Contact
-
-```
-If you have any questions regarding this project, you can contact me by email.
+## Contact.
 
 [GitHub](https://github.com/r-r-i)
 [email](riaconoo@icloud.com)
 
-```
+
