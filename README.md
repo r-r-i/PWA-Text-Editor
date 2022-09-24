@@ -40,6 +40,6 @@ Unlicensed
 ## Contact.
 
 - [GitHub](https://github.com/r-r-i)
-- [email](riaconoo@icloud.com)
+- [email](mailto:riaconoo@icloud.com)
 
 
