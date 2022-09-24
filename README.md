@@ -1,14 +1,16 @@
 # Model View Control: Tech Blog
 
 ## Task
-
+```
 For this challenge, I was given the task of building a text editor that runs in the browser. This app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence technioques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+```
 
 ## Submission
-
+```
 Deployed via Heroku.
 
 - deployed url: 
+```
 
 ## Installation Instructions
 
