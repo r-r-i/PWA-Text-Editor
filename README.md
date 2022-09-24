@@ -39,7 +39,7 @@ Unlicensed
 
 ## Contact.
 
-[GitHub](https://github.com/r-r-i)
-[email](riaconoo@icloud.com)
+- [GitHub](https://github.com/r-r-i)
+- [email](riaconoo@icloud.com)
 
 
