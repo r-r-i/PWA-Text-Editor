@@ -12,7 +12,7 @@ is not supported by the browser. The application also functions offline.
 ```
 Deployed via Heroku.
 
-- deployed url: 
+- deployed url: https://quiet-tor-93485.herokuapp.com/
 ```
 
 ## Installation Instructions
